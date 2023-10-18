@@ -1,0 +1,9 @@
+
+
+Creamos el proyecto. Instalamos el angular material ( ng add @angular/material)
+
+1) Haremos el login,centrado en el medio y manteniendo el tamaño. Ponemos 4 cosas de css para centrarlo. Iremos a flaticon para las img
+    Configuramos el login(html y css)Usamos autocomplete="off" para quitar el autoco de los input
+
+2) Una vez tenemos el login haremos el formularios reactivos. Enlazamos html con formgroup y la variable creada en ts. Los inputs
+    los enlazamos mediante formControlName(y poniendo el mismo que ponemos en nuestro constructor)
